@@ -1,0 +1,24 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"message":"2FA login successful","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTZiOWI5YjViNzY
+                    xMWM1NTIzOTQ3MTkiLCJpYXQiOjE3Njg3MTM1MzEsImV4cCI6MTc2ODcxNDQzMX0.j-M4CJhFfom4oL8lkTn1u8l-...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Keep-Alive: timeout=5
+                    Content-Length: 221
+                    Content-Type: application/json; charset=utf-8
+                    Date: Sun, 18 Jan 2026 05:18:51 GMT
+                    ETag: W/"dd-NJkldC96zjOIp7cp3zc...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Keep-Alive, timeout=5], [Content-Length, 221], [Content-Type, application/json; 
+                    charset=utf-8]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 221
+
+
+
