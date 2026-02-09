@@ -1,24 +1,15 @@
-{
+{ 
   "name": "secure-2fa-app",
   "version": "1.0.0",
-  "main": "backend/server.js",
+  "description": "A secure 2FA application",
+  "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
-    "dev": "nodemon backend/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
-    "bcrypt": "^6.0.0",
-    "bcryptjs": "^3.0.3",
-    "cors": "^2.8.5",
-    "csurf": "^1.2.2",
-    "dotenv": "^17.2.3",
-    "express": "^5.2.1",
-    "express-rate-limit": "^8.2.1",
-    "express-session": "^1.18.2",
-    "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.1.4",
-    "nodemailer": "^6.9.16",
-    "qrcode": "^1.5.4",
-    "speakeasy": "^2.0.0"
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "^10.0.0",
+    "<new-package-name>": "<version>"
   }
 }
